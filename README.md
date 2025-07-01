@@ -24,9 +24,4 @@ A simple yet powerful real-time collaborative text editor built using **Node.js*
 
 ---
 
-## 📦 Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/realtime-collab-editor.git
-   cd realtime-collab-editor
